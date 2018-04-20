@@ -1,0 +1,1 @@
+Welcome to my Tic Tac Toe game! Run it opening index.html in the browser.
